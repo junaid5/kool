@@ -1,1 +1,2 @@
-my name is junaid khan and i am studying in clas
+my name is junaid khan and i am studying in class
+git pull
